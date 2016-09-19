@@ -32,6 +32,12 @@
         settings:controller="com.android.settings.gestures.LongPressPowerButtonPreferenceController"
     />
 
+    <com.android.settings.support.SystemSettingSwitchPreference
+        android:key="powermenu_advanced"
+        android:title="@string/advanced_reboot_title"
+        android:summary="@string/advanced_reboot_summary"
+        android:defaultValue="false" />
+
     <com.android.settings.widget.LabeledSeekBarPreference
         android:key="gesture_power_menu_long_press_for_assist_sensitivity"
         android:title="@string/power_menu_long_press_for_assist_sensitivity_title"
