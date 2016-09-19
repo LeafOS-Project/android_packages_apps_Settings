@@ -23,6 +23,12 @@
         android:key="debug_misc_category"
         android:order="100">
 
+        <com.android.settings.support.SystemSettingSwitchPreference
+            android:key="powermenu_advanced"
+            android:title="@string/advanced_reboot_title"
+            android:summary="@string/advanced_reboot_summary"
+            android:defaultValue="false" />
+
         <Preference
             android:key="memory"
             android:title="@string/memory_settings_title"
