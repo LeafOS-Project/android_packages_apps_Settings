@@ -31,6 +31,10 @@
     <string name="berry_black_theme_title">Pure black</string>
     <string name="berry_black_theme_summary">Pure black background for dark theme</string>
 
+    <!-- Advanced restart options -->
+    <string name="power_menu_advanced_restart_title">Advanced restart</string>
+    <string name="power_menu_advanced_restart_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
+
     <!-- Torch Power button gestures -->
     <string name="torch_long_press_power_gesture_title">Long press for torch</string>
     <string name="torch_long_press_power_gesture_desc">Activate the torch by long pressing the power button while the display is off</string>
