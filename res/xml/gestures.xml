@@ -104,4 +104,17 @@
         android:title="@string/gesture_prevent_ringing_screen_title"
         android:fragment="com.android.settings.gestures.PreventRingingGestureSettings"
         settings:controller="com.android.settings.gestures.PreventRingingParentPreferenceController" />
+
+
+    <PreferenceCategory
+        android:title="@string/extras_title">
+
+    <Preference
+        android:key="volbtn_music_controls_summary"
+        android:title="@string/volbtn_music_controls_title"
+        android:fragment="com.android.settings.gestures.VolumeButtonMusicControlGestureSettings"
+        settings:controller="com.android.settings.gestures.VolumeButtonMusicControlPreferenceController" />
+
+    </PreferenceCategory>
+
 </PreferenceScreen>
