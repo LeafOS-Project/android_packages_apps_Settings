@@ -71,4 +71,8 @@
 
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
+
+    <!-- Android debugging as root -->
+    <string name="adb_enable_root">Rooted debugging</string>
+    <string name="adb_enable_summary_root">Allow running Android debugging as root</string>
 </resources>
