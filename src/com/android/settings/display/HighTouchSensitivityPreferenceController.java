@@ -15,27 +15,18 @@
  */
 package com.android.settings.display;
 
-import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.os.RemoteException;
-import android.provider.Settings;
-import android.text.TextUtils;
-
-import androidx.preference.Preference;
-
-import com.android.settings.R;
-import com.android.settings.core.TogglePreferenceController;
-import com.android.settings.overlay.FeatureFactory;
 
 import java.util.NoSuchElementException;
 
+import org.leafos.settings.controller.BaseSystemSwitchPreferenceController;
+
 import vendor.lineage.touch.V1_0.IGloveMode;
 
-public class HighTouchSensitivityPreferenceController extends TogglePreferenceController implements
-        Preference.OnPreferenceChangeListener  {
+public class HighTouchSensitivityPreferenceController extends BaseSystemSwitchPreferenceController  {
 
     private IGloveMode mGloveMode;
-    private Preference mPreference;
 
     public HighTouchSensitivityPreferenceController(Context context, String key) {
         super(context, key);
@@ -50,42 +41,15 @@ public class HighTouchSensitivityPreferenceController extends TogglePreferenceCo
     }
 
     @Override
-    public void updateState(Preference preference) {
-        mPreference = preference;
-        super.updateState(preference);
-    }
-
-    @Override
     public int getAvailabilityStatus() {
         return mGloveMode != null ? AVAILABLE : UNSUPPORTED_ON_DEVICE;
-    }
-
-    @Override
-    public boolean isSliceable() {
-        return TextUtils.equals(getPreferenceKey(), Settings.System.HIGH_TOUCH_SENSITIVITY_ENABLE);
-    }
-
-    @Override
-    public boolean isPublicSlice() {
-        return true;
-    }
-
-    @Override
-    public int getSliceHighlightMenuRes() {
-        return R.string.menu_key_display;
-    }
-
-    @Override
-    public boolean isChecked() {
-        return Settings.System.getInt(mContext.getContentResolver(), Settings.System.HIGH_TOUCH_SENSITIVITY_ENABLE, 0) != 0;
     }
 
     @Override
     public boolean setChecked(boolean isChecked) {
         try {
             mGloveMode.setEnabled(isChecked);
-            Settings.System.putInt(mContext.getContentResolver(), Settings.System.HIGH_TOUCH_SENSITIVITY_ENABLE, isChecked ? 1 : 0);
-            return true;
+            return super.setChecked(isChecked);
         } catch (RemoteException ex) {
             ex.printStackTrace();
         }
