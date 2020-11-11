@@ -57,13 +57,22 @@
             android:selectable="true"
             settings:textStart="@string/low_label"
             settings:textEnd="@string/high_label"/>
+
+        <com.android.settings.widget.LabeledSeekBarPreference
+            android:key="gesture_back_height"
+            android:title="@string/back_height_message"
+            android:max="3"
+            android:selectable="true"
+            settings:textStart="@string/back_height_low_label"
+            settings:textEnd="@string/back_height_high_label"/>
     </PreferenceCategory>
 
-    <org.leafos.support.preferences.SecureSettingSwitchPreference
+    <SwitchPreference
         android:key="navigation_bar_hint"
         android:title="@string/show_navbar_gesture_bar_title"
         android:summary="@string/show_navbar_gesture_bar_summary"
-        android:defaultValue="true" />
+        android:defaultValue="true"
+        settings:controller="org.leafos.settings.controller.BaseSecureSwitchPreferenceController" />
 
     <com.android.settingslib.widget.FooterPreference
         android:key="gesture_navigation_settings_footer"

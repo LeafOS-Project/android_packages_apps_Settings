@@ -76,7 +76,6 @@ android_library {
         "windowExtLib",
         "vendor.lineage.fastcharge-V1.0-java",
         "vendor.lineage.touch-V1.0-java",
-        "VendorSupport-preference",
     ],
 
     libs: [
