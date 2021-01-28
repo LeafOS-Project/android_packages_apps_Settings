@@ -24,6 +24,7 @@ import android.os.UserHandle;
 public class PackageManagerUtils {
 
     public static String ACTION_DOZE = "org.lineageos.settings.device.DOZE_SETTINGS";
+    public static String ACTION_ADDITIONAL_BUTTONS = "org.lineageos.settings.device.ADDITIONAL_BUTTONS_SETTINGS";
 
     public static boolean isIntentPresent(PackageManager pm, String name) {
         Intent intent = new Intent(name);
@@ -39,6 +40,10 @@ public class PackageManagerUtils {
 
     public static boolean isCustomDozePresent(PackageManager pm) {
         return isIntentPresent(pm, ACTION_DOZE);
+    }
+
+    public static boolean isAdditionalButtonsActionPresent(PackageManager pm) {
+        return isIntentPresent(pm, ACTION_ADDITIONAL_BUTTONS);
     }
 
 }
