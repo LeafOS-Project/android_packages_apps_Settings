@@ -25,6 +25,8 @@ import android.content.pm.PackageManager;
 import android.os.AsyncTask;
 import android.os.RemoteException;
 import android.os.ServiceManager;
+import android.os.UserHandle;
+import android.provider.Settings;
 import android.text.TextUtils;
 import android.util.Log;
 import android.widget.Toast;
@@ -41,6 +43,9 @@ import com.android.settingslib.development.DeveloperOptionsPreferenceController;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * Preference controller to allow users to choose an overlay from a list for a given category.
