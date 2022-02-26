@@ -88,6 +88,11 @@
             <intent android:action="com.android.settings.action.STATUS_BAR_TUNER" />
         </Preference>
 
+        <SwitchPreference
+            android:key="enable_blurs_on_windows"
+            android:title="@string/windows_blurs"
+            android:summary="@string/windows_blurs_summary" />
+
         <Preference
             android:fragment="com.android.settings.accessibility.TextReadingPreferenceFragment"
             android:key="text_reading_options"

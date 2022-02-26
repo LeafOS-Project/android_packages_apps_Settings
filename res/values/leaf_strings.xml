@@ -112,4 +112,7 @@
     <string name="private_dns_mode_switch" translatable="false">SWITCH (CH)</string>
     <string name="private_dns_mode_twnic" translatable="false">TW.NIC (TW)</string>
     <string name="private_dns_mode_uncensoreddns" translatable="false">UncensoredDNS (DK)</string>
+
+    <!-- Blur -->
+    <string name="window_blurs_summary">Enables blurs in some UI elements; requires device reboot</string>
 </resources>
