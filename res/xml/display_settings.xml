@@ -201,6 +201,10 @@
             android:defaultValue="false"
             settings:controller="org.leafos.settings.display.HighTouchSensitivityPreferenceController"/>
 
+	<SwitchPreference
+            android:key="enable_blurs_on_windows"
+            android:title="@string/window_blur" />
+
         <ListPreference
             android:key="theme"
             android:title="@string/device_theme"
