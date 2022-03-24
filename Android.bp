@@ -63,6 +63,9 @@ android_library {
     ],
     static_libs: [
         // External dependencies
+        "androidx.fragment_fragment",
+        "androidx.fragment_fragment-ktx",
+        "androidx.preference_preference-ktx",
         "androidx.navigation_navigation-fragment-ktx",
         "androidx.window_window-java",
         "gson",
@@ -106,6 +109,9 @@ android_library {
         "SystemUISharedLib",
         "vendor.lineage.fastcharge-V1.0-java",
         "vendor.lineage.touch-V1.0-java",
+        "kotlin-stdlib",
+        "kotlinx_coroutines_android",
+        "kotlinx_coroutines",
     ],
 
     plugins: ["androidx.room_room-compiler-plugin"],
