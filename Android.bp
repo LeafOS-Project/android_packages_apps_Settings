@@ -103,6 +103,7 @@ android_library {
         "settings-logtags",
         "settings-telephony-protos-lite",
         "statslog-settings",
+        "SystemUISharedLib",
         "vendor.lineage.fastcharge-V1.0-java",
         "vendor.lineage.touch-V1.0-java",
     ],
