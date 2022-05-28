@@ -130,6 +130,24 @@
             android:summary="@string/summary_placeholder"
             android:fragment="com.android.settings.deviceinfo.firmwareversion.FirmwareVersionSettings"
             settings:controller="com.android.settings.deviceinfo.firmwareversion.FirmwareVersionPreferenceController"/>
+
+        <!-- Leaf version -->
+        <Preference
+            android:key="leaf_version"
+            android:order="43"
+            android:title="@string/leaf_version"
+            android:summary="@string/summary_placeholder"
+            settings:enableCopying="true"
+            settings:controller="com.android.settings.deviceinfo.firmwareversion.LeafVersionDetailPreferenceController"/>
+
+        <!-- Leaf flavor -->
+        <Preference
+            android:key="leaf_flavor"
+            android:order="44"
+            android:title="@string/leaf_flavor"
+            android:summary="@string/summary_placeholder"
+            settings:enableCopying="true"
+            settings:controller="com.android.settings.deviceinfo.firmwareversion.LeafFlavorDetailPreferenceController"/>
     </PreferenceCategory>
 
     <PreferenceCategory
