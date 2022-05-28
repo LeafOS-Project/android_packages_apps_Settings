@@ -21,6 +21,11 @@
     android:title="@string/firmware_version"
     settings:keywords="@string/keywords_android_version">
 
+    <com.android.settingslib.widget.LayoutPreference
+        android:key="pref_app_header"
+        android:layout="@layout/leaf_logo_header"
+        settings:allowDividerBelow="true"/>
+
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"
