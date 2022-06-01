@@ -110,6 +110,7 @@ public class FingerprintEnrollEnrolling extends BiometricsEnrollEnrolling {
 
     private FingerprintManager mFingerprintManager;
     private boolean mCanAssumeUdfps;
+    private boolean mLateEnrollmentRunning;
     @Nullable private ProgressBar mProgressBar;
     private ObjectAnimator mProgressAnim;
     private TextView mDescriptionText;
@@ -244,7 +245,7 @@ public class FingerprintEnrollEnrolling extends BiometricsEnrollEnrolling {
     public void onEnterAnimationComplete() {
         super.onEnterAnimationComplete();
 
-        if (!shouldStartAutomatically()) {
+        if (!shouldStartAutomatically() && !mLateEnrollmentRunning) {
             startEnrollment();
         }
 
