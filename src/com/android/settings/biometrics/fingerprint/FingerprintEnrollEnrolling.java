@@ -222,11 +222,6 @@ public class FingerprintEnrollEnrolling extends BiometricsEnrollEnrolling {
 
     @Override
     protected boolean shouldStartAutomatically() {
-        if (mCanAssumeUdfps) {
-            // Continue enrollment if restoring (e.g. configuration changed). Otherwise, wait
-            // for the entry animation to complete before starting.
-            return mRestoring;
-        }
         return true;
     }
 
