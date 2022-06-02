@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "61b85b55_946a131d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-06-02T07:00:35Z",
+      "side": 1,
+      "message": "Default value is currently ignored in BaseSecureSwitchPreferenceController",
+      "revId": "fbdce4547368ea3a97ab9c8d9c9cb850c12753fe",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
