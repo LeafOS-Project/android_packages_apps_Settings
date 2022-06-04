@@ -203,9 +203,13 @@ public class AppInfoDashboardFragment extends DashboardFragment
         alarmsAndReminders.setPackageName(packageName);
         alarmsAndReminders.setParentFragment(this);
 
+        final SpoofPixelPropsPreferenceController spoofPixelProps =
+                use(SpoofPixelPropsPreferenceController.class);
+        spoofPixelProps.setParentFragment(this);
+
         use(AdvancedAppInfoPreferenceCategoryController.class).setChildren(Arrays.asList(
                 writeSystemSettings, drawOverlay, pip, externalSource, acrossProfiles,
-                alarmsAndReminders));
+                alarmsAndReminders, spoofPixelProps));
     }
 
     @Override
