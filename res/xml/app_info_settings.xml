@@ -182,6 +182,12 @@
             android:summary="@string/summary_placeholder"
             settings:controller="com.android.settings.applications.appinfo.AlarmsAndRemindersDetailPreferenceController" />
 
+        <SwitchPreference
+            android:key="spoof_pixel_props"
+            android:title="@string/spoof_pixel_props"
+            android:summary="@string/summary_placeholder"
+            settings:controller="com.android.settings.applications.appinfo.SpoofPixelPropsPreferenceController" />
+
     </PreferenceCategory>
 
     <!-- App installer info -->
