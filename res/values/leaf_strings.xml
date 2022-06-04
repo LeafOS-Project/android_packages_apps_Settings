@@ -38,4 +38,7 @@
     <string name="chroma_factor_title">Colorfulness</string>
     <string name="linear_lightness_title">Use a custom lightness scale</string>
     <string name="white_luminance_title">Brightness</string>
+
+    <!-- App info -->
+    <string name="spoof_pixel_props">Spoof Pixel build properties</string>
 </resources>
