@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f30884b2_7d6b61a3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-06-08T18:55:46Z",
+      "side": 1,
+      "message": "Needs to be adapted to use overlay category",
+      "revId": "9cee8e4cd74e6c0f084fe9bd69ddd639b3b31162",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
