@@ -21,7 +21,7 @@
     android:layout_height="wrap_content"
     android:layout_marginStart="36dp"
     android:layout_marginEnd="36dp"
-    android:padding="4dp"
+    android:padding="20dp"
     android:orientation="horizontal">
 
     <org.leafos.settings.preferences.colorpicker.ColorPickerView
