@@ -36,6 +36,12 @@
             android:title="@string/auto_brightness_title"
             android:fragment="com.android.settings.display.AutoBrightnessSettings"
             settings:controller="com.android.settings.display.AutoBrightnessPreferenceController"/>
+
+        <Preference
+            android:key="qs_brightness_slider"
+            android:title="@string/qs_brightness_slider_title"
+            android:summary="@string/qs_brightness_slider_summary"
+            android:fragment="com.android.settings.display.QSBrightnessSliderSettings" />
     </PreferenceCategory>
 
     <PreferenceCategory
