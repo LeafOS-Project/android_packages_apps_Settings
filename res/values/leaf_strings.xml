@@ -66,4 +66,7 @@
 
     <!-- [CHAR_LIMIT=NONE] Display Settings: Title of the setting which enables overlays to customize the statusbar icon -->
     <string name="theme_customization_icon_pack_title">System Icons</string>
+
+    <!-- fingerprint lockout -->
+    <string name="fingerprint_lockout_title">Fingerprint lockout</string>
 </resources>
