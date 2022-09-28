@@ -117,20 +117,20 @@ public class BackGestureIndicatorView extends LinearLayout {
 
         // mHeightScale cant be range 0 - 3
         // 0 means full height
-        // 1 measns half of the screen
-        // 2 means lower third of the screen
-        // 3 means lower sicth of the screen
+        // 1 means lower two thirds the screen
+        // 2 means half of the screen
+        // 3 means lower third of the screen
         if (mHeightScale == 0) {
             lp.height = displaySize.y;
             lp.y = 0;
         } else if (mHeightScale == 1) {
-            lp.height = displaySize.y / 2;
+            lp.height = displaySize.y * 2 / 3;
             lp.y = displaySize.y - lp.height;
         } else if (mHeightScale == 2) {
-            lp.height = displaySize.y / 3;
+            lp.height = displaySize.y / 2;
             lp.y = displaySize.y - lp.height;
         } else {
-            lp.height = displaySize.y / 6;
+            lp.height = displaySize.y / 3;
             lp.y = displaySize.y - lp.height;
         }
     }
