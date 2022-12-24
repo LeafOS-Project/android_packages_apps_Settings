@@ -23,4 +23,10 @@
     <string name="lock_settings_picker_pattern_size_message">Fren tiddi n wudlif</string>
     <string name="lockpattern_settings_enable_error_path_title">Sken tuccḍa n uzenziɣ</string>
     <string name="lockpattern_settings_enable_dots_title">Sken tinqiḍin n uzenziɣ</string>
+    <string name="display_rotation_unit">tifesniwin</string>
+    <string name="display_rotation_category_title">Iskaren n tuzzya</string>
+    <string name="display_rotation_0_title">0 n tifesniwin</string>
+    <string name="display_rotation_90_title">90 n tifesniwin</string>
+    <string name="display_rotation_180_title">180 n tifesniwin</string>
+    <string name="display_rotation_270_title">270 n tifesniwin</string>
 </resources>

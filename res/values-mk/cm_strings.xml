@@ -15,4 +15,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="torch_long_press_power_gesture_title">Долг притисок за светилка</string>
+    <string name="torch_long_press_power_gesture_desc">Активирајте ја светилката со долго притискање на копчето за напојување додека екранот е исклучен</string>
+    <string name="display_rotation_title">Поставувања за ротација</string>
+    <string name="display_rotation_enabled">Автоматската ротација е овозможена</string>
+    <string name="display_rotation_disabled">Автоматската ротација е оневозможена</string>
+    <string name="display_rotation_unit">степени</string>
+    <string name="display_rotation_category_title">Режими на ротација</string>
+    <string name="display_rotation_0_title">0 степени</string>
+    <string name="display_rotation_90_title">90 степени</string>
+    <string name="display_rotation_180_title">180 степени</string>
+    <string name="display_rotation_270_title">270 степени</string>
 </resources>

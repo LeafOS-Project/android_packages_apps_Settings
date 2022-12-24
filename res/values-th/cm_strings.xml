@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">เพิ่มความไวของหน้าจอสัมผัสเพื่อสามารถใช้ขณะสวมถุงมือ</string>
     <string name="berry_black_theme_title">ดำสนิท</string>
     <string name="berry_black_theme_summary">พื้นหลังสีดำสนิทสำหรับธีมมืด</string>
+    <string name="torch_long_press_power_gesture_title">กดค้างสำหรับไฟฉาย</string>
+    <string name="torch_long_press_power_gesture_desc">เปิดใช้งานไฟฉาย โดยกดปุ่มเปิด/ปิด​เครื่องค้างไว้ในขณะที่จอแสดงผลปิดอยู่</string>
     <string name="lock_settings_picker_pattern_size_message">เลือกขนาดรูปแบบ</string>
     <string name="lockpattern_settings_enable_error_path_title">แสดงลายเส้นที่ผิดพลาด</string>
     <string name="lockpattern_settings_enable_dots_title">แสดงจุดที่ลากผ่าน</string>
@@ -28,4 +30,13 @@
     <string name="unlock_scramble_pin_layout_summary">สุ่มสลับรหัสเมื่อปลดล็อคอุปกรณ์</string>
     <string name="tethering_allow_vpn_upstreams_title">อนุญาตให้ไคลเอ็นต์ใช้ VPN</string>
     <string name="tethering_allow_vpn_upstreams_summary">อนุญาตให้ไคลเอ็นต์ฮอตสปอตเชื่อมต่อ VPN ของอุปกรณ์นี้ สำหรับการเชื่อมต่ออัปสตรีม</string>
+    <string name="display_rotation_title">การตั้งค่าการหมุน</string>
+    <string name="display_rotation_enabled">การหมุนอัตโนมัติ เปิดอยู่</string>
+    <string name="display_rotation_disabled">การหมุนอัตโนมัติ ปิดอยู่</string>
+    <string name="display_rotation_unit">องศา</string>
+    <string name="display_rotation_category_title">รูปแบบการหมุน</string>
+    <string name="display_rotation_0_title">0 องศา</string>
+    <string name="display_rotation_90_title">90 องศา</string>
+    <string name="display_rotation_180_title">180 องศา</string>
+    <string name="display_rotation_270_title">270 องศา</string>
 </resources>

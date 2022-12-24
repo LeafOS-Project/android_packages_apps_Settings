@@ -21,8 +21,12 @@
     <string name="high_touch_sensitivity_summary">Touch-Empfindlichkeit erhöhen, um den Touchscreen auch mit Handschuhen bedienen zu können</string>
     <string name="berry_black_theme_title">Reines Schwarz</string>
     <string name="berry_black_theme_summary">Rein schwarzer Hintergrund für dunkles Design</string>
+    <string name="power_menu_advanced_restart_title">Erweiterter Neustart</string>
+    <string name="power_menu_advanced_restart_summary">Bei entsperrtem Bildschirm dem Neustartmenü Optionen für Neustart in Recovery oder in Bootloader hinzufügen</string>
     <string name="theme_customization_font_title">Schriftart</string>
     <string name="theme_customization_icon_shape_title">Symbolform</string>
+    <string name="torch_long_press_power_gesture_title">Lange drücken für Taschenlampe</string>
+    <string name="torch_long_press_power_gesture_desc">Taschenlampe bei ausgeschaltetem Bildschirm durch langes Drücken der Ein-/Aus-Taste anschalten</string>
     <string name="lock_settings_picker_pattern_size_message">Größe des Musters auswählen</string>
     <string name="lockpattern_settings_enable_error_path_title">Sperrmuster-Fehler anzeigen</string>
     <string name="lockpattern_settings_enable_dots_title">Sperrmuster-Punkte anzeigen</string>
@@ -30,4 +34,13 @@
     <string name="unlock_scramble_pin_layout_summary">Bei jedem Entsperrversuch die Ziffernanordnung zufällig neu wählen</string>
     <string name="tethering_allow_vpn_upstreams_title">Clients erlauben VPN zu verwenden</string>
     <string name="tethering_allow_vpn_upstreams_summary">Erlaubt Hotspot-Clients die VPN-Verbindungen dieses Gerätes für die Upstream-Konnektivität zu verwenden</string>
+    <string name="display_rotation_title">Bildschirmausrichtung</string>
+    <string name="display_rotation_enabled">Automatisch drehen ist aktiviert</string>
+    <string name="display_rotation_disabled">Automatisch drehen ist deaktiviert</string>
+    <string name="display_rotation_unit">Grad</string>
+    <string name="display_rotation_category_title">Bei Drehung um</string>
+    <string name="display_rotation_0_title">0 Grad</string>
+    <string name="display_rotation_90_title">90 Grad</string>
+    <string name="display_rotation_180_title">180 Grad</string>
+    <string name="display_rotation_270_title">270 Grad</string>
 </resources>

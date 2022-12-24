@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Aumentar a sensibilidade da pantalla para poder utilizalo con luvas</string>
     <string name="berry_black_theme_title">Negro puro</string>
     <string name="berry_black_theme_summary">Fondo negro puro para o tema escuro</string>
+    <string name="torch_long_press_power_gesture_title">Manteña pulsado para activar a linterna</string>
+    <string name="torch_long_press_power_gesture_desc">Encender lanterna ao mantener presionado o botón de encendido mentres a pantalla esté apagada</string>
     <string name="lock_settings_picker_pattern_size_message">Escolle un tamaño para o patrón</string>
     <string name="lockpattern_settings_enable_error_path_title">Mostrar erro do padrón</string>
     <string name="lockpattern_settings_enable_dots_title">Mostrar puntos do padrón</string>
@@ -28,4 +30,13 @@
     <string name="unlock_scramble_pin_layout_summary">Cambiar a disposición dos números do PIN para desbloquear o dispositivo</string>
     <string name="tethering_allow_vpn_upstreams_title">Permitir aos clientes usar VPNs</string>
     <string name="tethering_allow_vpn_upstreams_summary">Permite aos clientes do punto de acceso usar as conexións VPN deste dispositivo como conexión principal</string>
+    <string name="display_rotation_title">Axustes de rotación</string>
+    <string name="display_rotation_enabled">Rotación automática activada</string>
+    <string name="display_rotation_disabled">Rotación automática desactivada</string>
+    <string name="display_rotation_unit">graos</string>
+    <string name="display_rotation_category_title">Modos de rotación</string>
+    <string name="display_rotation_0_title">0 graos</string>
+    <string name="display_rotation_90_title">90 graos</string>
+    <string name="display_rotation_180_title">180 graos</string>
+    <string name="display_rotation_270_title">270 graos</string>
 </resources>

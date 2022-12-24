@@ -21,4 +21,10 @@
     <string name="lockpattern_settings_enable_dots_title">Visa mönsterpunkter</string>
     <string name="unlock_scramble_pin_layout_title">Kasta om layout</string>
     <string name="unlock_scramble_pin_layout_summary">Kasta om PIN-layout vid upplåsning av enheten</string>
+    <string name="display_rotation_unit">grader</string>
+    <string name="display_rotation_category_title">Rotationslägen</string>
+    <string name="display_rotation_0_title">0 grader</string>
+    <string name="display_rotation_90_title">90 grader</string>
+    <string name="display_rotation_180_title">180 grader</string>
+    <string name="display_rotation_270_title">270 grader</string>
 </resources>

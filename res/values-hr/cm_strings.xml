@@ -19,9 +19,20 @@
     <string name="fast_charging_summary">Onemogućite kako biste smanjili toplinu koju uređaj proizvodi tijekom punjenja ili produljili vijek trajanja baterije</string>
     <string name="high_touch_sensitivity_title">Visoka osjetljivost na dodir</string>
     <string name="high_touch_sensitivity_summary">Povećaj osjetljivost na dodir tako da se mogu koristiti rukavice</string>
+    <string name="torch_long_press_power_gesture_title">Dugi pritisak za svjetiljku</string>
+    <string name="torch_long_press_power_gesture_desc">Aktivirajte svjetiljku dugim pritiskom tipke napajanja dok je zaslon isključen</string>
     <string name="lock_settings_picker_pattern_size_message">Odaberite veličinu uzorka</string>
     <string name="lockpattern_settings_enable_error_path_title">Pokaži grešku uzorka</string>
     <string name="lockpattern_settings_enable_dots_title">Pokaži točke uzorka</string>
     <string name="unlock_scramble_pin_layout_title">Nasumičan raspored</string>
     <string name="unlock_scramble_pin_layout_summary">Nasumičan PIN raspored pri otključavanju uređaja</string>
+    <string name="display_rotation_title">Postavke rotacije</string>
+    <string name="display_rotation_enabled">Autom. rotacija je omogućena</string>
+    <string name="display_rotation_disabled">Autom. rotacija je onemogućena</string>
+    <string name="display_rotation_unit">stupnjeva</string>
+    <string name="display_rotation_category_title">Način rotacije</string>
+    <string name="display_rotation_0_title">0 stupnjeva</string>
+    <string name="display_rotation_90_title">90 stupnjeva</string>
+    <string name="display_rotation_180_title">180 stupnjeva</string>
+    <string name="display_rotation_270_title">270 stupnjeva</string>
 </resources>

@@ -21,8 +21,12 @@
     <string name="high_touch_sensitivity_summary">Αύξηση της ευαισθησίας της οθόνης αφής έτσι ώστε να μπορεί να χρησιμοποιηθεί φορώντας γάντια</string>
     <string name="berry_black_theme_title">Αμιγές μαύρο</string>
     <string name="berry_black_theme_summary">Αμιγές μαύρο παρασκήνιο για το σκοτεινό θέμα</string>
+    <string name="power_menu_advanced_restart_title">Προηγμένη επανεκκίνηση</string>
+    <string name="power_menu_advanced_restart_summary">Όταν είναι ενεργή, περιλαμβάνονται στο μενού πλήκτρου απενεργοποίησης οι επιλογές επανεκκίνησης σε λειτουργία recovery ή bootloader</string>
     <string name="theme_customization_font_title">Γραμματοσειρά</string>
     <string name="theme_customization_icon_shape_title">Σχήμα εικονιδίων</string>
+    <string name="torch_long_press_power_gesture_title">Παρατεταμένη πίεση για φακό</string>
+    <string name="torch_long_press_power_gesture_desc">Ενεργοποιήστε το φακό πατώντας παρατεταμένα το πλήκτρο ισχύος όταν η οθόνη είναι ανενεργή</string>
     <string name="lock_settings_picker_pattern_size_message">Επιλέξτε ένα μέγεθος μοτίβου</string>
     <string name="lockpattern_settings_enable_error_path_title">Εμφάνιση λάθος μοτίβου</string>
     <string name="lockpattern_settings_enable_dots_title">Εμφάνιση τελειών μοτίβου</string>
@@ -30,4 +34,13 @@
     <string name="unlock_scramble_pin_layout_summary">Ανακάτεμα της διάταξης PIN κατά το ξεκλείδωμα της συσκευής</string>
     <string name="tethering_allow_vpn_upstreams_title">Επιτρέψτε στους πελάτες να χρησιμοποιούν VPN</string>
     <string name="tethering_allow_vpn_upstreams_summary">Επιτρέψτε στους πελάτες σημείου πρόσβασης να χρησιμοποιούν τις συνδέσεις VPN αυτής της συσκευής για σύνδεση upstream</string>
+    <string name="display_rotation_title">Ρυθμίσεις περιστροφής</string>
+    <string name="display_rotation_enabled">Η αυτόματη περιστροφή είναι ενεργοποιημένη</string>
+    <string name="display_rotation_disabled">Η αυτόματη περιστροφή είναι απενεργοποιημένη</string>
+    <string name="display_rotation_unit">μοίρες</string>
+    <string name="display_rotation_category_title">Επιλογές περιστροφής</string>
+    <string name="display_rotation_0_title">0 μοίρες</string>
+    <string name="display_rotation_90_title">90 μοίρες</string>
+    <string name="display_rotation_180_title">180 μοίρες</string>
+    <string name="display_rotation_270_title">270 μοίρες</string>
 </resources>

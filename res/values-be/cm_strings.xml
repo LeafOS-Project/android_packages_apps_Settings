@@ -17,6 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="high_touch_sensitivity_title">Рэжым пальчаткаў</string>
     <string name="high_touch_sensitivity_summary">Павялічваць адчувальнасць экрана для магчымасці працы ў пальчатках</string>
+    <string name="torch_long_press_power_gesture_desc">Актываваць ліхтарык доўгім націскам кнопкі сілкавання пры выключаным экране</string>
     <string name="lock_settings_picker_pattern_size_message">Выберыце памер графічнага ключа</string>
     <string name="lockpattern_settings_enable_error_path_title">Паказваць няправільны ўвод</string>
     <string name="lockpattern_settings_enable_dots_title">Паказваць кропкі</string>

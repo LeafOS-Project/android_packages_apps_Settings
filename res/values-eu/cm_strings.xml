@@ -17,9 +17,20 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="high_touch_sensitivity_title">Ukipen sentsibilitate altua</string>
     <string name="high_touch_sensitivity_summary">Areagotu pantailaren sentsibilitatea, eskularruekin erabilgarria izan dadin</string>
+    <string name="torch_long_press_power_gesture_title">Sakatu luze linternarako</string>
+    <string name="torch_long_press_power_gesture_desc">Aktibatu linterna itzaltze botoia luze sakatuz pantaila itzalita dagoenean</string>
     <string name="lock_settings_picker_pattern_size_message">Aukeratu ereduaren tamaina</string>
     <string name="lockpattern_settings_enable_error_path_title">Erakutsi eredu errorea</string>
     <string name="lockpattern_settings_enable_dots_title">Erakutsi ereduaren puntuak</string>
     <string name="unlock_scramble_pin_layout_title">Zorizko diseinua</string>
     <string name="unlock_scramble_pin_layout_summary">PIN zenbakiaren antolaketa nahastu gailua desblokeatzean</string>
+    <string name="display_rotation_title">Biratzearen ezarpenak</string>
+    <string name="display_rotation_enabled">Biratze automatikoa gaituta dago</string>
+    <string name="display_rotation_disabled">Biratze automatikoa ezgaituta dago</string>
+    <string name="display_rotation_unit">gradu</string>
+    <string name="display_rotation_category_title">Biraketa moduak</string>
+    <string name="display_rotation_0_title">0 gradu</string>
+    <string name="display_rotation_90_title">90 gradu</string>
+    <string name="display_rotation_180_title">180 gradu</string>
+    <string name="display_rotation_270_title">270 gradu</string>
 </resources>

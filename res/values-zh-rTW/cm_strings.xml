@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">增加觸控螢幕的靈敏度，因此戴著手套也可以使用手機</string>
     <string name="berry_black_theme_title">純黑色</string>
     <string name="berry_black_theme_summary">深色主題使用純黑色的背景</string>
+    <string name="torch_long_press_power_gesture_title">長按開啟手電筒</string>
+    <string name="torch_long_press_power_gesture_desc">當螢幕關閉時長按電源鍵啟動手電筒</string>
     <string name="lock_settings_picker_pattern_size_message">選擇解鎖圖案大小</string>
     <string name="lockpattern_settings_enable_error_path_title">顯示解鎖圖案錯誤</string>
     <string name="lockpattern_settings_enable_dots_title">顯示解鎖圖案節點</string>
@@ -28,4 +30,13 @@
     <string name="unlock_scramble_pin_layout_summary">解鎖裝置時使用亂序 PIN 碼佈局</string>
     <string name="tethering_allow_vpn_upstreams_title">允許客戶端使用 VPN</string>
     <string name="tethering_allow_vpn_upstreams_summary">允許熱點客戶端使用此裝置的 VPN 連線進行上游連線</string>
+    <string name="display_rotation_title">旋轉設定</string>
+    <string name="display_rotation_enabled">啟用自動旋轉</string>
+    <string name="display_rotation_disabled">停用自動旋轉</string>
+    <string name="display_rotation_unit">度</string>
+    <string name="display_rotation_category_title">旋轉模式</string>
+    <string name="display_rotation_0_title">0 度</string>
+    <string name="display_rotation_90_title">90 度</string>
+    <string name="display_rotation_180_title">180 度</string>
+    <string name="display_rotation_270_title">270 度</string>
 </resources>
