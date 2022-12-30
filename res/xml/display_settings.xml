@@ -87,6 +87,11 @@
             android:persistent="false"
             android:title="@string/accessibility_text_reading_options_title"
             settings:controller="com.android.settings.accessibility.TextReadingFragmentForDisplaySettingsController"/>
+
+        <Preference
+            android:key="monet_settings"
+            android:title="@string/monet_title"
+            android:fragment="org.leafos.settings.display.MonetSettings" />
     </PreferenceCategory>
 
     <PreferenceCategory
