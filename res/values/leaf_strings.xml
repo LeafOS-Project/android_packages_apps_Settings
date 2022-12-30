@@ -133,4 +133,29 @@
     <string name="custom_seekbar_default_value">Default</string>
     <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+
+    <!-- Monet -->
+    <string name="monet_title" translatable="false">Monet</string>
+    <string name="theme_style_title">Theme style</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_tonal_spot">Tonal Spot</string>
+    <string name="theme_style_vibrant">Vibrant</string>
+    <string name="theme_style_expressive">Expressive</string>
+    <string name="theme_style_rainbow">Rainbow</string>
+    <string name="theme_style_fruit_salad">Fruit Salad</string>
+    <string name="theme_style_content">Content</string>
+    <string name="theme_style_monochromatic">Monochromatic</string>
+    <string name="color_source_title">Color source</string>
+    <string name="color_source_both">Both</string>
+    <string name="color_source_home">Home wallpaper</string>
+    <string name="color_source_lock">Lock wallpaper</string>
+    <string name="color_source_preset">Preset</string>
+    <string name="accent_color_title">Color</string>
+    <string name="accent_background_title">Accent background</string>
+    <string name="accent_background_summary">Choose a different accent color for background</string>
+    <string name="bg_color_title">Color</string>
+    <string name="luminance_factor_title">Luminance</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="tint_background_title">Tint Background</string>
+    <string name="tint_background_summary">Make Luminance and Chroma selection affect background colors as well</string>
 </resources>
