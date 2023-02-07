@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "74615d13_f939f200",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-02-07T07:36:39Z",
+      "side": 1,
+      "message": "theme_customization_* strings were apparently removed upstream",
+      "revId": "c568aa6f74b9db6391ebbe684484cf25f0cd3ce4",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
