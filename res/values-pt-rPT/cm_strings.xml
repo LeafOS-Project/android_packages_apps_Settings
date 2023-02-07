@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Fundo em preto puro para tema escuro</string>
     <string name="power_menu_advanced_restart_title">Reinício avançado</string>
     <string name="power_menu_advanced_restart_summary">Quando desbloqueado, incluir opções no menu ligar/desligar para reiniciar em modo de recuperação ou bootloader</string>
-    <string name="theme_customization_font_title">Tipo de letra</string>
-    <string name="theme_customization_icon_shape_title">Formato dos ícones</string>
     <string name="torch_long_press_power_gesture_title">Lanterna através de pressão longa</string>
     <string name="torch_long_press_power_gesture_desc">Ativar a lanterna através de pressão longa no botão de ligar/desligar quando o ecrã estiver desligado</string>
     <string name="lock_settings_picker_pattern_size_message">Escolha um tamanho para o padrão</string>

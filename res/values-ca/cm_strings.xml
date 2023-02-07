@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Fons negre pur per al tema fosc</string>
     <string name="power_menu_advanced_restart_title">Reinici avançat</string>
     <string name="power_menu_advanced_restart_summary">Quan està desbloquejat, inclou opcions en el menú d\'encesa per a reiniciar al recovery o bootloader</string>
-    <string name="theme_customization_font_title">Tipus de lletra</string>
-    <string name="theme_customization_icon_shape_title">Forma de les icones</string>
     <string name="torch_long_press_power_gesture_title">Pulsació llarga per la torxa</string>
     <string name="torch_long_press_power_gesture_desc">Activa la torxa fent una pulsació llarga del botó d\'apagat mentre la pantalla està apagada</string>
     <string name="lock_settings_picker_pattern_size_message">Tria una mida de patró</string>

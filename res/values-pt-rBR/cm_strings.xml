@@ -20,8 +20,6 @@
     <string name="high_touch_sensitivity_summary">Aumenta a sensibilidade da tela para poder ser usada com luvas</string>
     <string name="berry_black_theme_title">Preto puro</string>
     <string name="berry_black_theme_summary">Preto puro como cor de fundo para tema escuro</string>
-    <string name="theme_customization_font_title">Fonte</string>
-    <string name="theme_customization_icon_shape_title">Formato dos ícones</string>
     <string name="torch_long_press_power_gesture_title">Manter pressionado para ligar a lanterna</string>
     <string name="torch_long_press_power_gesture_desc">Ativar a lanterna ao manter pressionado o botão de ligar/desligar enquanto a tela estiver desligada</string>
     <string name="lock_settings_picker_pattern_size_message">Escolha um tamanho para o padrão</string>

@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">ダークテーマ時に背景をピュアブラックにする</string>
     <string name="power_menu_advanced_restart_title">高度な再起動</string>
     <string name="power_menu_advanced_restart_summary">ロック解除時に、リカバリーやブートローダーへ再起動するオプションを電源メニューに含めます</string>
-    <string name="theme_customization_font_title">フォント</string>
-    <string name="theme_customization_icon_shape_title">アイコンの形状</string>
     <string name="torch_long_press_power_gesture_title">長押しでライト点灯</string>
     <string name="torch_long_press_power_gesture_desc">画面消灯時に電源ボタンを長押ししてライトを点灯します</string>
     <string name="lock_settings_picker_pattern_size_message">パターンサイズを選択してください</string>

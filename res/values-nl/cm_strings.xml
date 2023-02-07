@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Puur zwarte achtergrond voor donker thema</string>
     <string name="power_menu_advanced_restart_title">Geavanceerd herstarten</string>
     <string name="power_menu_advanced_restart_summary">Indien ontgrendeld, opties tonen in het aan/uit-menu voor herstarten naar recovery of bootloader</string>
-    <string name="theme_customization_font_title">Lettertype</string>
-    <string name="theme_customization_icon_shape_title">Pictogram vorm</string>
     <string name="torch_long_press_power_gesture_title">Lang drukken voor zaklamp</string>
     <string name="torch_long_press_power_gesture_desc">Zaklamp inschakelen door lang op de aan/uit-knop te drukken als het scherm uit is</string>
     <string name="lock_settings_picker_pattern_size_message">Grootte patroon kiezen</string>

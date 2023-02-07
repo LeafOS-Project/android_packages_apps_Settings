@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Натурально черный фон для темной темы</string>
     <string name="power_menu_advanced_restart_title">Варианты перезапуска</string>
     <string name="power_menu_advanced_restart_summary">Когда устройство разблокировано, в меню кнопки питания доступны опции перезагрузки в Recovery и загрузчик</string>
-    <string name="theme_customization_font_title">Шрифт</string>
-    <string name="theme_customization_icon_shape_title">Форма значка</string>
     <string name="torch_long_press_power_gesture_title">Длительное нажатие для включения фонарика</string>
     <string name="torch_long_press_power_gesture_desc">Включать фонарик длительным нажатием кнопки питания при выключенном экране</string>
     <string name="lock_settings_picker_pattern_size_message">Выберите размер граф. ключа</string>

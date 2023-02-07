@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Fundal negru pur pentru tema întunecată</string>
     <string name="power_menu_advanced_restart_title">Repornire avansată</string>
     <string name="power_menu_advanced_restart_summary">La deblocare, se includ opțiuni în meniul de pornire pentru repornirea în recuperare sau bootloader</string>
-    <string name="theme_customization_font_title">Font</string>
-    <string name="theme_customization_icon_shape_title">Forma pictogramei</string>
     <string name="torch_long_press_power_gesture_title">Apăsaţi lung pentru lanternă</string>
     <string name="torch_long_press_power_gesture_desc">Activați lanterna prin apăsarea lungă a butonului pornire în timp ce ecranul este oprit</string>
     <string name="lock_settings_picker_pattern_size_message">Alegeți dimensiunea modelului</string>

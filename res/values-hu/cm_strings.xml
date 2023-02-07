@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Egy igazán fekete háttér a fekete témákhoz</string>
     <string name="power_menu_advanced_restart_title">Speciális újraindítás</string>
     <string name="power_menu_advanced_restart_summary">Feloldott kijelzőnél a Recovery és a Bootloader újraindítási mód is jelenjen meg a kikapcsoló menüben</string>
-    <string name="theme_customization_font_title">Betűtípus</string>
-    <string name="theme_customization_icon_shape_title">Ikonforma</string>
     <string name="torch_long_press_power_gesture_title">Zseblámpához nyomja hosszan</string>
     <string name="torch_long_press_power_gesture_desc">Zseblámpa bekapcsolása a kikapcsoló gomb hosszan nyomására kikapcsolt képernyőnél</string>
     <string name="lock_settings_picker_pattern_size_message">Válassza ki a minta méretét</string>

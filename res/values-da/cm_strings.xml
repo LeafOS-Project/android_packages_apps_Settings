@@ -21,8 +21,6 @@
     <string name="high_touch_sensitivity_summary">Forøg berøringsfølsom skærms følsomhed, så den kan bruges med handsker på</string>
     <string name="power_menu_advanced_restart_title">Avanceret genstart</string>
     <string name="power_menu_advanced_restart_summary">Når oplåst, vis muligheder i tænd-/slukmenuen for at genstarte til recovery eller bootloader</string>
-    <string name="theme_customization_font_title">Font</string>
-    <string name="theme_customization_icon_shape_title">Ikonform</string>
     <string name="torch_long_press_power_gesture_title">Langt tryk for lommelygte</string>
     <string name="torch_long_press_power_gesture_desc">Aktivér lommelygten med et langt tryk på strømknappen, mens skærmen er slukket</string>
     <string name="lock_settings_picker_pattern_size_message">Vælg en mønsterstørrelse</string>

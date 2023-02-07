@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Latar belakang hitam untuk tema gelap</string>
     <string name="power_menu_advanced_restart_title">Mulai ulang lanjutan</string>
     <string name="power_menu_advanced_restart_summary">Ketika tidak terkunci, berisi pilihan pada menu daya untuk mulai ulang ke recovery atau bootloader</string>
-    <string name="theme_customization_font_title">Font</string>
-    <string name="theme_customization_icon_shape_title">Bentuk ikon</string>
     <string name="torch_long_press_power_gesture_title">Tekan lama untuk senter</string>
     <string name="torch_long_press_power_gesture_desc">Aktifkan senter dengan menekan lama tombol daya saat layar mati</string>
     <string name="lock_settings_picker_pattern_size_message">Pilih ukuran pola</string>

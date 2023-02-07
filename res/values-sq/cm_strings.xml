@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Sfond i zi i pastër për temë të errët</string>
     <string name="power_menu_advanced_restart_title">Rindezje e përparuar</string>
     <string name="power_menu_advanced_restart_summary">Kur telefoni është i zhbllokuar, përfshi në menunë e energjisë opsione për t\'u rindezur në Recovery ose Bootloader</string>
-    <string name="theme_customization_font_title">Fonti</string>
-    <string name="theme_customization_icon_shape_title">Forma e ikonës</string>
     <string name="torch_long_press_power_gesture_title">Mbaj shtypur për të ndezur elektrikun e dorës</string>
     <string name="torch_long_press_power_gesture_desc">Ndiz elektrikun e dorës duke mbajtur shtypur butonin e energjisë kur ekrani është i fikur</string>
     <string name="lock_settings_picker_pattern_size_message">Zgjidh madhësinë e modelit</string>

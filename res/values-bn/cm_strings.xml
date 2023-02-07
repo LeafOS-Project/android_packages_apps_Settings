@@ -21,8 +21,6 @@
     <string name="high_touch_sensitivity_summary">টাচস্ক্রীন সংবেদনশীলতা বৃদ্ধি করুন যাতে গ্লাভস পরিহিত অবস্থায় ব্যবহার করা যেতে পারে</string>
     <string name="power_menu_advanced_restart_title">অ্যাডভান্সড রিস্টার্ট</string>
     <string name="power_menu_advanced_restart_summary">ডিভাইস আনলক করা থাকলে, রিকভারি অথবা বুটলোডারে যাওয়ার অপশন দেখাও</string>
-    <string name="theme_customization_font_title">ফন্ট</string>
-    <string name="theme_customization_icon_shape_title">আইকনের আকৃতি</string>
     <string name="lock_settings_picker_pattern_size_message">প্যাটার্নের আকার নির্ধারন করুন</string>
     <string name="unlock_scramble_pin_layout_title">একত্র বিন্যাস</string>
     <string name="unlock_scramble_pin_layout_summary">একত্র পিন বিন্যাস যখন ডিভাইস অবমুক্ত করার সময়</string>

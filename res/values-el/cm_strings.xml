@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Αμιγές μαύρο παρασκήνιο για το σκοτεινό θέμα</string>
     <string name="power_menu_advanced_restart_title">Προηγμένη επανεκκίνηση</string>
     <string name="power_menu_advanced_restart_summary">Όταν είναι ενεργή, περιλαμβάνονται στο μενού πλήκτρου απενεργοποίησης οι επιλογές επανεκκίνησης σε λειτουργία recovery ή bootloader</string>
-    <string name="theme_customization_font_title">Γραμματοσειρά</string>
-    <string name="theme_customization_icon_shape_title">Σχήμα εικονιδίων</string>
     <string name="torch_long_press_power_gesture_title">Παρατεταμένη πίεση για φακό</string>
     <string name="torch_long_press_power_gesture_desc">Ενεργοποιήστε το φακό πατώντας παρατεταμένα το πλήκτρο ισχύος όταν η οθόνη είναι ανενεργή</string>
     <string name="lock_settings_picker_pattern_size_message">Επιλέξτε ένα μέγεθος μοτίβου</string>

@@ -19,8 +19,6 @@
     <string name="high_touch_sensitivity_summary">Підвищити чутливість сенсорного екрану для користуванням пристроєм у рукавичках</string>
     <string name="power_menu_advanced_restart_title">Варіанти перезапуску</string>
     <string name="power_menu_advanced_restart_summary">Додати в меню перезапуску режим відновлення й завантажувач, коли пристрій розблоковано</string>
-    <string name="theme_customization_font_title">Шрифт</string>
-    <string name="theme_customization_icon_shape_title">Форма піктограм</string>
     <string name="torch_long_press_power_gesture_title">Тривале натискання для увімкнення ліхтарика</string>
     <string name="torch_long_press_power_gesture_desc">Вмикати ліхтарик довгим натисканням кнопки живлення, при вимкненому екрані</string>
     <string name="lock_settings_picker_pattern_size_message">Оберіть розмір шаблону</string>

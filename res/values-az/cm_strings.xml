@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Tünd tema üçün təmiz qara arxaplan</string>
     <string name="power_menu_advanced_restart_title">Qabaqcıl yenidən başlatma</string>
     <string name="power_menu_advanced_restart_summary">Kilid açılanda, bərpa və ya ön yükləmə rejimində yenidən başlatmaq üçün güc menyusuna seçimlər əlavə edir</string>
-    <string name="theme_customization_font_title">Şrift</string>
-    <string name="theme_customization_icon_shape_title">Nişan forması</string>
     <string name="torch_long_press_power_gesture_title">Fənər üçün uzun basın</string>
     <string name="torch_long_press_power_gesture_desc">Ekran sönülü olarkən güc düyməsinə uzun basmaq fənəri yandırar</string>
     <string name="lock_settings_picker_pattern_size_message">Forma ölçüsünü seçin</string>

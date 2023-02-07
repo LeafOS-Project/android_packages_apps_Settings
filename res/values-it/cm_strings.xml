@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Tema scuro con sfondo nero</string>
     <string name="power_menu_advanced_restart_title">Riavvio avanzato</string>
     <string name="power_menu_advanced_restart_summary">Quando il dispositivo è sbloccato, mostra nel menù di accensione le opzioni per il riavvio in recovery o nel bootloader</string>
-    <string name="theme_customization_font_title">Carattere</string>
-    <string name="theme_customization_icon_shape_title">Forma delle icone</string>
     <string name="torch_long_press_power_gesture_title">Premi a lungo per la torcia</string>
     <string name="torch_long_press_power_gesture_desc">Attiva la torcia tenendo premuto a lungo il pulsante d\'accensione quando lo schermo é spento</string>
     <string name="lock_settings_picker_pattern_size_message">Scegli la dimensione della sequenza</string>

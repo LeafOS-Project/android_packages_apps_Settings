@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Čistě černé pozadí při tmavém motivu</string>
     <string name="power_menu_advanced_restart_title">Rozšířený restart</string>
     <string name="power_menu_advanced_restart_summary">Pokud je povoleno, v nabídce vypnutí jsou také možnosti restartovat zařízení do recovery nebo bootloaderu</string>
-    <string name="theme_customization_font_title">Písmo</string>
-    <string name="theme_customization_icon_shape_title">Tvar ikon</string>
     <string name="torch_long_press_power_gesture_title">Dlouhým stiskem zapnout svítilnu</string>
     <string name="torch_long_press_power_gesture_desc">Dlouhým stiskem tlačítka napájení při vypnuté obrazovce zapnout svítilnu</string>
     <string name="lock_settings_picker_pattern_size_message">Zvolit velikost vzoru</string>

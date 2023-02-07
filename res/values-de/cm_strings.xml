@@ -23,8 +23,6 @@
     <string name="berry_black_theme_summary">Rein schwarzer Hintergrund für dunkles Design</string>
     <string name="power_menu_advanced_restart_title">Erweiterter Neustart</string>
     <string name="power_menu_advanced_restart_summary">Bei entsperrtem Bildschirm dem Neustartmenü Optionen für Neustart in Recovery oder in Bootloader hinzufügen</string>
-    <string name="theme_customization_font_title">Schriftart</string>
-    <string name="theme_customization_icon_shape_title">Symbolform</string>
     <string name="torch_long_press_power_gesture_title">Lange drücken für Taschenlampe</string>
     <string name="torch_long_press_power_gesture_desc">Taschenlampe bei ausgeschaltetem Bildschirm durch langes Drücken der Ein-/Aus-Taste anschalten</string>
     <string name="lock_settings_picker_pattern_size_message">Größe des Musters auswählen</string>
