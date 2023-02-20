@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="build_date">Data de compilação</string>
+    <string name="leaf_version">Versão do LeafOS</string>
+    <string name="leaf_vendor_security_patch">Nível de patch de segurança do fornecedor</string>
+    <string name="back_height_low_label">Completo</string>
+    <string name="back_height_high_label">Fundo</string>
+    <string name="back_options_dialog_title">Opções</string>
+    <string name="back_height_message">Quantidade da altura da tela usada como região tocável para o gesto de voltar.</string>
+    <string name="show_fourg_icon_title">Ícone 4G</string>
+    <string name="show_fourg_icon_summary">Mostrar 4G ao invés do ícone LTE na barra de status</string>
+    <string name="three_finger_gesture">Deslizar para capturar a tela</string>
+    <string name="three_finger_gesture_summary">Deslize para baixo com três dedos para fazer uma captura da tela</string>
+    <string name="hide_powermenu_lockscreen">Ocultar o menu de energia na tela de bloqueio</string>
+    <string name="qs_brightness_slider_title">Controle deslizante de brilho</string>
+    <string name="qs_brightness_slider_summary">Ajuste o controle deslizante de brilho nas Configurações Rápidas</string>
+    <string name="qs_brightness_slider_never">Nunca exibir</string>
+    <string name="qs_brightness_slider_expanded">Mostrar quando expandido</string>
+    <string name="qs_brightness_slider_always">Mostrar sempre</string>
+    <string name="qs_brightness_slider_position_title">Posição</string>
+    <string name="qs_brightness_slider_position_top">Em cima</string>
+    <string name="qs_brightness_slider_position_bottom">Em baixo</string>
+    <string name="qs_auto_brightness_title">Ícone de brilho automático</string>
+    <string name="qs_auto_brightness_summary">Mostrar controle para o brilho adaptável próximo ao controle deslizante</string>
+    <string name="network_traffic_title">Indicador de tráfego de rede</string>
+    <string name="network_traffic_summary">Habilita ou desabilita o indicador de tráfego de rede na barra de status</string>
+    <string name="network_traffic_state_title">Habilitar o indicador de tráfego de rede</string>
+    <string name="network_options_title">Opções</string>
+    <string name="network_traffic_autohide_title">Ocultar o indicador de tráfego de rede está inativo</string>
+    <string name="network_traffic_autohide_summary">Oculta quando o tráfego de rede estiver abaixo de 1KB/s</string>
+    <string name="qs_tile_shape">Formato do bloco de configurações rápidas</string>
+    <string name="qs_tile_round">Redondo</string>
+    <string name="qs_tile_rect">Retângulo Arredondado</string>
+    <string name="qs_tile_mix">Redondo para configurações ativas e Retângulo Arredondado para configurações inativas</string>
+    <string name="theme_customization_icon_pack_title">Ícones do sistema</string>
+    <string name="app_lock_title">Bloqueio de aplicativos</string>
+    <plurals name="app_lock_summary">
+        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> aplicativo protegido</item>
+        <item quantity="many"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> aplicativos protegidos</item>
+        <item quantity="other"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> aplicativos protegidos</item>
+    </plurals>
+    <string name="app_lock_authentication_dialog_title">Desbloquear aplicativo</string>
+    <string name="enable_debugging">Habilitar depuração</string>
+    <string name="disable_debugging">Desabilitar depuração</string>
+    <string name="app_lock_packages_title">Aplicativos protegidos</string>
+    <string name="app_lock_packages_summary">Selecione os aplicativos para proteger com biometria ou credenciais do dispositivo</string>
+    <string name="app_lock_timeout_title">Tempo limite de bloqueio automático</string>
+    <string name="app_lock_timeout_summary">Duração de tempo após o qual um aplicativo desbloqueado em segundo plano deve ser bloqueado</string>
+    <string name="app_lock_notifications_title">Ocultar notificações</string>
+    <string name="app_lock_notifications_summary">O conteúdo das notificações será ocultado e recolhido para os aplicativos selecionados enquanto eles estiverem bloqueados. Notificações pop-up serão automaticamente desabilitadas.</string>
+    <string name="app_lock_notifications_disabled_summary">Proteja um aplicativo primeiro</string>
+    <string name="app_lock_biometrics_allowed_title">Habilitar biometria para desbloqueio</string>
+    <string name="app_lock_footer_text">As bolhas serão dispensadas automaticamente após o tempo limite</string>
+    <string name="enable_protection">Habilitar proteção</string>
+    <string name="hide_from_launcher_title">Ocultar do launcher</string>
+    <string name="hide_from_launcher_summary">Evita que este aplicativo de apareça no launcher. Requer uma reinicialização do launcher para que as alterações entrem em vigor.</string>
+    <string name="notification_sound_vib_screen_on_title">Notificações irritantes</string>
+    <string name="notification_sound_vib_screen_on_summary">Tocar som e a vibração para notificações quando a tela estiver ligada</string>
+    <string name="soc_model">Modelo do SoC</string>
+    <string name="total_ram">Memória RAM total</string>
+</resources>
