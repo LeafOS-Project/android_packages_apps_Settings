@@ -50,6 +50,11 @@
     <string name="qs_auto_brightness_title">Auto brightness icon</string>
     <string name="qs_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
 
+    <!-- QS panel -->
+    <string name="qs_panel_options_title">Quick settings</string>
+    <string name="qs_panel_options_summary">Customize quick settings tiles</string>
+    <string name="category_name_qs_tiles">QS tiles</string>
+
     <!-- QS tile shape -->
     <string name="qs_tile_shape">QS tile shape</string>
     <string name="qs_tile_round">Round</string>
