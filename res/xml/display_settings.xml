@@ -74,12 +74,11 @@
             settings:controller="com.android.settings.display.DarkUIPreferenceController"
             settings:keywords="@string/keywords_dark_ui_mode"/>
 
-        <com.android.settings.support.SecureSettingListPreference
-            android:key="qs_tile_shape"
-            android:title="@string/qs_tile_shape"
-            android:entries="@array/qs_tile_shape_entries"
-            android:entryValues="@array/qs_tile_shape_values"
-            android:defaultValue="2" />
+        <Preference
+            android:fragment="org.leafos.settings.qs.QSPanelSettings"
+            android:key="qs_panel_options"
+            android:persistent="false"
+            android:title="@sting/qs_panel_options_title" />
 
         <Preference
             android:key="status_bar_icon_manager"
