@@ -66,6 +66,20 @@
     <string name="qs_panel_options_title">QuickSettings</string>
     <string name="category_name_qs_tiles">QS tile options</string>
 
+    <!-- QS columns -->
+    <string name="qs_columns">QuickSettings columns</string>
+    <string name="qs_columns_min" translatable="false">1</string>
+    <string name="qs_columns_max" translatable="false">5</string>
+    <string name="qs_columns_landscape">QuickSettings columns in landscape orientation</string>
+    <string name="qs_columns_landscape_min" translatable="false">@string/qs_columns_min</string>
+    <string name="qs_columns_landscape_max" translatable="false">6</string>
+    <string name="qqs_columns">Quick QS columns</string>
+    <string name="qqs_columns_min" translatable="false">@string/qs_columns_min</string>
+    <string name="qqs_columns_max" translatable="false">@string/qs_columns_max</string>
+    <string name="qqs_columns_landscape">Quick QS columns in landscape orientation</string>
+    <string name="qqs_columns_landscape_min" translatable="false">@string/qs_columns_landscape_min</string>
+    <string name="qqs_columns_landscape_max" translatable="false">@string/qs_columns_landscape_max</string>
+
     <!-- QS tile shape -->
     <string name="qs_tile_shape">QS tile shape</string>
     <string name="qs_tile_round">Round</string>
