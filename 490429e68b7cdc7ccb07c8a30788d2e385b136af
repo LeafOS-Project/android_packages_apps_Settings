@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "abf9ade6_0a2c9235",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000017
+      },
+      "writtenOn": "2023-04-12T22:06:25Z",
+      "side": 1,
+      "message": "needed for high refresh rate controls",
+      "revId": "490429e68b7cdc7ccb07c8a30788d2e385b136af",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
