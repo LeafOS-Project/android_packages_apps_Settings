@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f10baa7d_f2135fb4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-04-13T15:32:33Z",
+      "side": 1,
+      "message": "Is there any other use for this than on wifi-only devices?\nIf not this should instead be adressed in devicetree by just setting ro.boot.wificountrycode\u003d00",
+      "revId": "d1a7de8aa91d97cece59607cc69d8bcb42c1c68f",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
