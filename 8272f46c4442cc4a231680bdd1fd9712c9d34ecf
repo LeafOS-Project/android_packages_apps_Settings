@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "81410f5a_d7a9c282",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-04-13T15:36:17Z",
+      "side": 1,
+      "message": "Unchanged strings directly picked from lineage should go to cm_strings.xml so that the fetch-lineage-translations script can be used rather than translating it again on our weblate instance.",
+      "revId": "8272f46c4442cc4a231680bdd1fd9712c9d34ecf",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
