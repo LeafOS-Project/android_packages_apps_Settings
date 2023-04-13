@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5a17274_ceefb613",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-04-13T15:24:51Z",
+      "side": 1,
+      "message": "Strings need to be moved to leaf_strings.xml since this commit is not from lineage",
+      "revId": "128e7e568e1a21251f7f7a624c46f26676fc1ad0",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
