@@ -16,6 +16,11 @@
 
 package org.leafos.settings.qs;
 
+import android.content.Context;
+import android.os.Bundle;
+import android.os.UserHandle;
+import android.provider.Settings;
+
 import com.android.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
@@ -25,6 +30,15 @@ import com.android.settingslib.search.SearchIndexable;
 public class QSPanelSettings extends DashboardFragment {
 
     private static final String TAG = "QSPanelSettings";
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setDefaultValue(getContext(), Settings.Secure.QQS_NUM_COLUMNS, 5);
+        setDefaultValue(getContext(), Settings.Secure.QQS_NUM_COLUMNS_LANDSCAPE, 6);
+        setDefaultValue(getContext(), Settings.Secure.QS_NUM_COLUMNS, 4);
+        setDefaultValue(getContext(), Settings.Secure.QS_NUM_COLUMNS_LANDSCAPE, 6);
+    }
 
     @Override
     public int getMetricsCategory() {
@@ -39,6 +53,14 @@ public class QSPanelSettings extends DashboardFragment {
     @Override
     protected int getPreferenceScreenResId() {
         return R.xml.qs_panel_settings;
+    }
+
+    private void setDefaultValue(Context context, String key, int def) {
+        int currentValue = Settings.Secure.getIntForUser(
+            context.getContentResolver(), key, -1, UserHandle.USER_CURRENT);
+        if (currentValue == -1) {
+            Settings.Secure.putIntForUser(context.getContentResolver(), key, def, UserHandle.USER_CURRENT);
+        }
     }
 
     public static final BaseSearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
