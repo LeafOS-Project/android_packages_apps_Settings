@@ -62,6 +62,11 @@
 
     <!-- QS tiles -->
     <string name="category_name_qs_tiles">QS tiles</string>
+
+    <!-- QS style -->
+    <string name="qs_style_title">Enable round QS</string>
+    <string name="qs_style_summary">Display the quick settings tiles as large pill or small circle style</string>
+
     <!-- QS tile shape -->
     <string name="qs_tile_shape">QS tile shape</string>
     <string name="qs_tile_round">Round</string>

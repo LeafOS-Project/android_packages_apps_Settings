@@ -54,6 +54,12 @@
     <PreferenceCategory
         android:title="@string/category_name_qs_tiles">
 
+        <com.android.settings.support.SecureSettingSwitchPreference
+            android:key="qs_ui_style"
+            android:title="@string/qs_style_title"
+            android:summary="@string/qs_style_summary"
+            android:defaultValue="true" />
+
         <com.android.settings.support.SecureSettingListPreference
             android:key="qs_tile_shape"
             android:title="@string/qs_tile_shape"
