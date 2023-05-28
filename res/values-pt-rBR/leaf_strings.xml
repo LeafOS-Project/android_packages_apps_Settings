@@ -17,7 +17,7 @@
     <string name="qs_brightness_slider_never">Nunca exibir</string>
     <string name="qs_brightness_slider_expanded">Mostrar quando expandido</string>
     <string name="qs_brightness_slider_always">Mostrar sempre</string>
-    <string name="qs_brightness_slider_position_title">Posição</string>
+    <string name="qs_brightness_slider_position_title">Posição do controle deslizante de brilho</string>
     <string name="qs_brightness_slider_position_top">Em cima</string>
     <string name="qs_brightness_slider_position_bottom">Em baixo</string>
     <string name="qs_auto_brightness_title">Ícone de brilho automático</string>
@@ -58,4 +58,16 @@
     <string name="notification_sound_vib_screen_on_summary">Tocar som e a vibração para notificações quando a tela estiver ligada</string>
     <string name="soc_model">Modelo do SoC</string>
     <string name="total_ram">Memória RAM total</string>
+    <string name="qs_panel_options_title">Configurações rápidas</string>
+    <string name="brightness_slider_style_title">Estilo do controle deslizante de brilho</string>
+    <string name="brightness_slider_style_thin">Fino</string>
+    <string name="category_name_qs_tiles">Blocos das configurações rápidas</string>
+    <string name="fingerprint_lockout_title">Desativar bloqueio de impressão digital</string>
+    <string name="enable_adblock_summary">Bloqueia vários anúncios e trackers a nível de sistema.</string>
+    <string name="qs_panel_options_summary">Personalize a aparência das configurações rápidas</string>
+    <string name="brightness_slider_style_default">Padrão</string>
+    <string name="enable_adblock">Habilitar bloqueio de anúncios</string>
+    <string name="brightness_slider_style_filled">Preenchido</string>
+    <string name="fingerprint_lockout_summary">Desativa o tempo limite de 30 segundos, bem como o bloqueio permanente após várias tentativas de desbloqueio de impressão digital com falha</string>
+    <string name="category_name_qs_brightness_slider">Controle deslizante de brilho</string>
 </resources>
