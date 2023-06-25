@@ -63,6 +63,12 @@
         android:summary="@string/fast_charging_summary"
         settings:controller="com.android.settings.fuelgauge.FastChargingPreferenceController"/>
 
+    <Preference
+        android:fragment="org.lineageos.lineageparts.health.ChargingControlSettings"
+        android:key="charging_control"
+        android:title="@string/charging_control_title"
+        settings:controller="org.leafos.settings.health.LineageHealthPreferenceController" />
+
     <com.android.settingslib.widget.FooterPreference
         android:key="power_usage_footer"
         android:title="@string/battery_footer_summary"
