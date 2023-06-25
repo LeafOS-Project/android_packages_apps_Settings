@@ -18,6 +18,7 @@ package org.lineageos.lineageparts.health;
 
 import android.content.res.Resources;
 import android.os.Bundle;
+import android.provider.Settings;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -29,17 +30,16 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-import org.lineageos.lineageparts.R;
-import org.lineageos.lineageparts.SettingsPreferenceFragment;
+import com.android.settings.R;
+import com.android.settings.SettingsPreferenceFragment;
+import com.android.settings.support.SystemSettingDropDownPreference;
+import com.android.settings.support.SystemSettingMainSwitchPreference;
 
-import lineageos.health.HealthInterface;
-import lineageos.preference.LineageSystemSettingDropDownPreference;
-import lineageos.preference.LineageSystemSettingMainSwitchPreference;
-import lineageos.providers.LineageSettings;
+import com.android.internal.lineage.health.HealthInterface;
 
-import static lineageos.health.HealthInterface.MODE_AUTO;
-import static lineageos.health.HealthInterface.MODE_MANUAL;
-import static lineageos.health.HealthInterface.MODE_LIMIT;
+import static com.android.internal.lineage.health.HealthInterface.MODE_AUTO;
+import static com.android.internal.lineage.health.HealthInterface.MODE_MANUAL;
+import static com.android.internal.lineage.health.HealthInterface.MODE_LIMIT;
 
 public class ChargingControlSettings extends SettingsPreferenceFragment implements
         Preference.OnPreferenceChangeListener {
@@ -51,8 +51,8 @@ public class ChargingControlSettings extends SettingsPreferenceFragment implemen
     private static final String CHARGING_CONTROL_TARGET_TIME_PREF = "charging_control_target_time";
     private static final String CHARGING_CONTROL_LIMIT_PREF = "charging_control_charging_limit";
 
-    private LineageSystemSettingMainSwitchPreference mChargingControlEnabledPref;
-    private LineageSystemSettingDropDownPreference mChargingControlModePref;
+    private SystemSettingMainSwitchPreference mChargingControlEnabledPref;
+    private SystemSettingDropDownPreference mChargingControlModePref;
     private StartTimePreference mChargingControlStartTimePref;
     private TargetTimePreference mChargingControlTargetTimePref;
     private ChargingLimitPreference mChargingControlLimitPref;
@@ -98,8 +98,6 @@ public class ChargingControlSettings extends SettingsPreferenceFragment implemen
         setHasOptionsMenu(true);
 
         refreshValues();
-
-        watch(LineageSettings.System.getUriFor(LineageSettings.System.CHARGING_CONTROL_ENABLED));
     }
 
     @Override
@@ -211,6 +209,11 @@ public class ChargingControlSettings extends SettingsPreferenceFragment implemen
         return true;
     }
 
+    @Override
+    public int getMetricsCategory() {
+        return METRICS_CATEGORY_UNKNOWN;
+    }
+
     private void resetToDefaults() {
         mHealthInterface.reset();
 
@@ -221,12 +224,4 @@ public class ChargingControlSettings extends SettingsPreferenceFragment implemen
         return Stream.concat(Arrays.stream(array1), Arrays.stream(array2)).toArray(size ->
                 (CharSequence[]) Array.newInstance(CharSequence.class, size));
     }
-
-    public static final SummaryProvider SUMMARY_PROVIDER = (context, key) -> {
-        HealthInterface healthInterface = HealthInterface.getInstance(context);
-        if (healthInterface.getEnabled()) {
-            return context.getString(R.string.enabled);
-        }
-        return context.getString(R.string.disabled);
-    };
 }
