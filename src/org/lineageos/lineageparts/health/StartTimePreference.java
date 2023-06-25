@@ -19,7 +19,7 @@ package org.lineageos.lineageparts.health;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import org.lineageos.lineageparts.R;
+import com.android.settings.R;
 
 public class StartTimePreference extends TimePreference {
     private static final String TAG = StartTimePreference.class.getSimpleName();
