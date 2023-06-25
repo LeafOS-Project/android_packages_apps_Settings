@@ -58,6 +58,13 @@
         settings:controller="com.android.settings.fuelgauge.batterytip.BatteryManagerPreferenceController"
         settings:keywords="@string/keywords_battery_adaptive_preferences" />
 
+    <!-- Charging control -->
+    <Preference
+        android:fragment="org.lineageos.lineageparts.health.ChargingControlSettings"
+        android:key="charging_control"
+        android:title="@string/charging_control_title"
+        settings:controller="org.leafos.settings.health.LineageHealthPreferenceController" />
+
     <SwitchPreference
         android:key="battery_percentage"
         android:title="@string/battery_percentage"

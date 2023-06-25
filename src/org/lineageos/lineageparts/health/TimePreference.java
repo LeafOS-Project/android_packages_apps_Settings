@@ -27,13 +27,13 @@ import android.widget.TimePicker;
 import androidx.appcompat.app.AlertDialog;
 import androidx.preference.PreferenceViewHolder;
 
-import org.lineageos.lineageparts.widget.CustomDialogPreference;
-import org.lineageos.lineageparts.R;
+import com.android.settings.R;
+import com.android.settings.support.widget.CustomDialogPreference;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
-import lineageos.health.HealthInterface;
+import com.android.internal.lineage.health.HealthInterface;
 
 public abstract class TimePreference extends CustomDialogPreference<AlertDialog> {
     private static final String TAG = TimePreference.class.getSimpleName();

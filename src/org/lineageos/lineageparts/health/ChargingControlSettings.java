@@ -18,6 +18,7 @@ package org.lineageos.lineageparts.health;
 
 import android.content.res.Resources;
 import android.os.Bundle;
+import android.provider.Settings;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -29,17 +30,16 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-import org.lineageos.lineageparts.R;
-import org.lineageos.lineageparts.SettingsPreferenceFragment;
+import com.android.settings.R;
+import com.android.settings.SettingsPreferenceFragment;
+import com.android.settings.support.SystemSettingDropDownPreference;
+import com.android.settings.support.SystemSettingMainSwitchPreference;
 
-import lineageos.health.HealthInterface;
-import lineageos.preference.LineageSystemSettingDropDownPreference;
-import lineageos.preference.LineageSystemSettingMainSwitchPreference;
-import lineageos.providers.LineageSettings;
+import com.android.internal.lineage.health.HealthInterface;
 
-import static lineageos.health.HealthInterface.MODE_AUTO;
-import static lineageos.health.HealthInterface.MODE_MANUAL;
-import static lineageos.health.HealthInterface.MODE_LIMIT;
+import static com.android.internal.lineage.health.HealthInterface.MODE_AUTO;
+import static com.android.internal.lineage.health.HealthInterface.MODE_MANUAL;
+import static com.android.internal.lineage.health.HealthInterface.MODE_LIMIT;
 
 public class ChargingControlSettings extends SettingsPreferenceFragment implements
         Preference.OnPreferenceChangeListener {
@@ -99,7 +99,7 @@ public class ChargingControlSettings extends SettingsPreferenceFragment implemen
 
         refreshValues();
 
-        watch(LineageSettings.System.getUriFor(LineageSettings.System.CHARGING_CONTROL_ENABLED));
+        watch(Settings.System.getUriFor(Settings.System.CHARGING_CONTROL_ENABLED));
     }
 
     @Override
