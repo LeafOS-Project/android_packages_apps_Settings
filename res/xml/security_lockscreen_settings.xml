@@ -129,7 +129,8 @@
 
         <Preference
             android:key="doze_device_settings"
-            android:title="@string/ambient_display_screen_title">
+            android:title="@string/ambient_display_screen_title"
+            settings:controller="com.android.settings.display.LineageDozePreferenceController">
             <intent android:action="org.lineageos.settings.device.DOZE_SETTINGS" />
         </Preference>
 
