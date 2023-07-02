@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c4207152_ae40ca6d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-02T11:33:45Z",
+      "side": 1,
+      "message": "TODO: backlight, torch longpress, remove lmodroid vendor/support preferences",
+      "revId": "64714708f6b1ed1baf410e15140d4e4e30037bfc",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
