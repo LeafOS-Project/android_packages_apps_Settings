@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9a177a60_c260c3d9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000017
+      },
+      "writtenOn": "2023-07-05T14:10:20Z",
+      "side": 1,
+      "message": "Using this for a long time and no issues\nI get annoyed by 2 decimals",
+      "revId": "e86bb3ad00645f5f61b5db5e18efe6d5697264c4",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
