@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2d34ac53_44bb9071",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-11-05T09:07:57Z",
+      "side": 1,
+      "message": "TODO: volume panel on left, taskbar toggle",
+      "revId": "d9c2b09718a479bcef6a973dd1879c588a048c5e",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
