@@ -33,6 +33,23 @@
       "message": "Additional button settings is always shown even if the device does not support it",
       "revId": "d9c2b09718a479bcef6a973dd1879c588a048c5e",
       "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bbaecc11_511ee98f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-11-05T09:47:50Z",
+      "side": 1,
+      "message": "Settings related to 3button nav should be hidden when it is not enabled",
+      "revId": "d9c2b09718a479bcef6a973dd1879c588a048c5e",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
     }
   ]
 }
