@@ -173,7 +173,16 @@ public class FingerprintSettings extends SubSettings {
             if (manager == null || !manager.isHardwareDetected()) {
                 return null;
             }
-            if (manager.isPowerbuttonFps()) {
+            List<FingerprintSensorPropertiesInternal> sensorProperties =
+                    manager.getSensorPropertiesInternal();
+            boolean isUdfps = false;
+            for (FingerprintSensorPropertiesInternal prop : sensorProperties) {
+                if (prop.isAnyUdfpsType()) {
+                    isUdfps = true;
+                    break;
+                }
+            }
+            if (!isUdfps(
                 controllers.add(
                         new FingerprintUnlockCategoryController(
                                 context,
