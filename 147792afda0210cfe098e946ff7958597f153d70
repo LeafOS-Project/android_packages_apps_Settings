@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e309b46_7a06c1e8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2024-07-08T17:06:44Z",
+      "side": 1,
+      "message": "Added support of UDFPS unlock when screen is off\nThis change was imported from lineage os",
+      "revId": "147792afda0210cfe098e946ff7958597f153d70",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
