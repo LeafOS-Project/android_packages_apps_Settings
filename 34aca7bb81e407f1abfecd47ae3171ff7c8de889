@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d600e33a_a9a8bcde",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2024-07-08T17:44:56Z",
+      "side": 1,
+      "message": "I have squashed both commits togather",
+      "revId": "34aca7bb81e407f1abfecd47ae3171ff7c8de889",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
