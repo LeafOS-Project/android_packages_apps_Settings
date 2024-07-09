@@ -16,6 +16,24 @@
       "message": "Remove extra spaces at end of line",
       "revId": "6df5fcf611b84bb0d254c224e1f243994275666e",
       "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7b7afcf9_7263c345",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2024-07-09T20:51:46Z",
+      "side": 1,
+      "message": "\u003e Remove extra spaces at end of line\n\nFixed in patchset6",
+      "parentUuid": "19ed181b_b1b463b0",
+      "revId": "6df5fcf611b84bb0d254c224e1f243994275666e",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
     }
   ]
 }
