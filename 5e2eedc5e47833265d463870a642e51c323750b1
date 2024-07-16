@@ -33,6 +33,24 @@
       "message": "@sirrgb@proton.me bro i request you to fix up fingerprint rework enrollment screen as it is conflicting here \nhttps://review.leafos.org/c/LeafOS-Project/android_packages_apps_Settings/+/5358",
       "revId": "5e2eedc5e47833265d463870a642e51c323750b1",
       "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ff7adca4_e9d47bec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2024-07-16T17:54:36Z",
+      "side": 1,
+      "message": "mistakenly marked as resolved",
+      "parentUuid": "36a8ac9b_2680712c",
+      "revId": "5e2eedc5e47833265d463870a642e51c323750b1",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
     }
   ]
 }
