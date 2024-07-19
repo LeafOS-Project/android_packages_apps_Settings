@@ -51,6 +51,41 @@
       "parentUuid": "36a8ac9b_2680712c",
       "revId": "5e2eedc5e47833265d463870a642e51c323750b1",
       "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f1c1f1f_b2e2348f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2024-07-19T03:14:20Z",
+      "side": 1,
+      "message": "@tim@linux4.de Ready to merge !!",
+      "revId": "5e2eedc5e47833265d463870a642e51c323750b1",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0cd1c475_8d135569",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2024-07-19T03:14:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ff7adca4_e9d47bec",
+      "revId": "5e2eedc5e47833265d463870a642e51c323750b1",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
     }
   ]
 }
