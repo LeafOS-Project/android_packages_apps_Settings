@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Augmenter la sensibilité de l\'écran permettant ainsi le port de gants</string>
     <string name="berry_black_theme_title">Noir pur</string>
     <string name="berry_black_theme_summary">Fond noir pur pour le thème sombre</string>
+    <string name="status_bar_double_tap_to_sleep_title">Appuyer pour mettre en veille</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Appuyer deux fois sur la barre d\'état ou sur l\'écran de verrouillage pour éteindre l\'écran</string>
     <string name="lock_settings_picker_pattern_size_message">Choisissez une taille de modèle</string>
     <string name="lockpattern_settings_enable_error_path_title">Afficher l\'erreur de schéma</string>
     <string name="lockpattern_settings_enable_dots_title">Afficher les points du schéma</string>
@@ -52,6 +54,8 @@
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="power_menu_advanced_restart_title">Redémarrage avancé</string>
     <string name="power_menu_advanced_restart_summary">Inclure les options de redémarrage en modes \"récupération\" et \"chargeur de démarrage\" dans le menu marche/arrêt lorsque l\'appareil est déverrouillé</string>
+    <string name="status_bar_double_tap_to_sleep_title">Double appui pour mettre en veille</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Appuyer deux fois sur la barre d\'état pour éteindre l\'écran</string>
     <string name="display_rotation_title">Paramètres de rotation</string>
     <string name="display_rotation_enabled">Rotation automatique activée</string>
     <string name="display_rotation_disabled">Rotation automatique désactivée</string>

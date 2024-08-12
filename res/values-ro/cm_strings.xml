@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Crește sensibilitatea ecranului tactil, astfel încât acesta poate fi utilizat în timp ce se poartă mănuși</string>
     <string name="berry_black_theme_title">Negru pur</string>
     <string name="berry_black_theme_summary">Fundal negru pur pentru tema întunecată</string>
+    <string name="status_bar_double_tap_to_sleep_title">Atingeți pentru sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Atingeți de două ori bara de stare sau ecranul de blocare pentru a opri ecranul</string>
     <string name="lock_settings_picker_pattern_size_message">Alegeți dimensiunea modelului</string>
     <string name="lockpattern_settings_enable_error_path_title">Afișare eroare model</string>
     <string name="lockpattern_settings_enable_dots_title">Afișare puncte model</string>
@@ -52,6 +54,8 @@
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="power_menu_advanced_restart_title">Repornire avansată</string>
     <string name="power_menu_advanced_restart_summary">La deblocare, se includ opțiuni în meniul de pornire pentru repornirea în recuperare sau bootloader</string>
+    <string name="status_bar_double_tap_to_sleep_title">Apăsare dublă pentru a opri ecranul</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Atingeți de două ori bara de stare pentru a opri ecranul</string>
     <string name="display_rotation_title">Setări de rotaţie</string>
     <string name="display_rotation_enabled">Auto-rotaţia este activată</string>
     <string name="display_rotation_disabled">Auto-rotaţia este dezactivată</string>

@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">手袋を着けたまま使用できるようにタッチ画面の感度を向上させる</string>
     <string name="berry_black_theme_title">ピュアブラック</string>
     <string name="berry_black_theme_summary">ダークテーマ時に背景をピュアブラックにする</string>
+    <string name="status_bar_double_tap_to_sleep_title">ロック画面をタップしてスリープ状態にする</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ステータスバーかロックスクリーンをダブルタップしてディスプレイを消灯します</string>
     <string name="lock_settings_picker_pattern_size_message">パターンサイズを選択してください</string>
     <string name="lockpattern_settings_enable_error_path_title">間違えたパターンを表示</string>
     <string name="lockpattern_settings_enable_dots_title">パターンのドットを表示</string>
@@ -52,6 +54,8 @@
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="power_menu_advanced_restart_title">高度な再起動</string>
     <string name="power_menu_advanced_restart_summary">ロック解除時に、リカバリーやブートローダーへ再起動するオプションを電源メニューに含めます</string>
+    <string name="status_bar_double_tap_to_sleep_title">ダブルタップしてスリープ</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ステータスバーをダブルタップしてディスプレイを消灯します</string>
     <string name="display_rotation_title">回転</string>
     <string name="display_rotation_enabled">画面の自動回転は有効になっています</string>
     <string name="display_rotation_disabled">無効</string>

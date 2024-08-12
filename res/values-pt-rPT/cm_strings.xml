@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Aumentar a sensibilidade do ecrã para ser manuseado quando estiver a usar luvas</string>
     <string name="berry_black_theme_title">Preto puro</string>
     <string name="berry_black_theme_summary">Fundo em preto puro para tema escuro</string>
+    <string name="status_bar_double_tap_to_sleep_title">Toque duplo para desligar o ecrã</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dê um toque duplo na barra de estado ou ecrã de bloqueio para desligar o ecrã</string>
     <string name="lock_settings_picker_pattern_size_message">Escolha um tamanho para o padrão</string>
     <string name="lockpattern_settings_enable_error_path_title">Mostrar erro no padrão</string>
     <string name="lockpattern_settings_enable_dots_title">Mostrar os pontos do padrão</string>
@@ -34,6 +36,8 @@
     <string name="backup_transport_title">Selecionar provedor de cópia de segurança</string>
     <string name="power_menu_advanced_restart_title">Reinício avançado</string>
     <string name="power_menu_advanced_restart_summary">Quando desbloqueado, incluir opções no menu ligar/desligar para reiniciar em modo de recuperação ou bootloader</string>
+    <string name="status_bar_double_tap_to_sleep_title">Toque duplo para desligar ecrã</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dê um toque duplo na barra de estado para desligar o ecrã</string>
     <string name="display_rotation_title">Definições de rotação</string>
     <string name="display_rotation_enabled">A rotação automática está ativada</string>
     <string name="display_rotation_disabled">A rotação automática está desativada</string>

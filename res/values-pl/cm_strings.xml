@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Zwiększa czułość ekranu dotykowego, więc możesz go używać podczas noszenia rękawiczek</string>
     <string name="berry_black_theme_title">Czysta czerń</string>
     <string name="berry_black_theme_summary">Czysta czerń tła dla ciemnego motywu</string>
+    <string name="status_bar_double_tap_to_sleep_title">Dotknij, by uśpić</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dotknij dwukrotnie na pasku stanu lub ekranie blokady, aby wyłączyć ekran</string>
     <string name="lock_settings_picker_pattern_size_message">Wybierz rozmiar wzoru</string>
     <string name="lockpattern_settings_enable_error_path_title">Pokazuj błędny wzór</string>
     <string name="lockpattern_settings_enable_dots_title">Pokazuj punkty wzoru</string>
@@ -52,6 +54,8 @@
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="power_menu_advanced_restart_title">Opcje ponownego uruchamiania</string>
     <string name="power_menu_advanced_restart_summary">Gdy odblokowany dodaj w menu zasilania opcje ponownego uruchomienia w trybie recovery lub bootloadera</string>
+    <string name="status_bar_double_tap_to_sleep_title">Dwukrotnie dotknij, aby uśpić</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dotknij dwukrotnie na pasku stanu, aby wyłączyć ekran</string>
     <string name="display_rotation_title">Ustawienia obracania</string>
     <string name="display_rotation_enabled">Automatyczna rotacja jest włączona</string>
     <string name="display_rotation_disabled">Automatyczna rotacja jest wyłączona</string>

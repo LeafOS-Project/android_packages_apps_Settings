@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Tăng độ nhạy màn hình cảm ứng để nó có thể được sử dụng trong khi đeo găng tay</string>
     <string name="berry_black_theme_title">Đen tuyền</string>
     <string name="berry_black_theme_summary">Nền đen tuyền cho chủ đề tối</string>
+    <string name="status_bar_double_tap_to_sleep_title">Chạm để tắt màn hình</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Chạm hai lần vào thanh trạng thái hoặc màn hình khoá để tắt màn hình</string>
     <string name="lock_settings_picker_pattern_size_message">Chọn một kích cỡ mẫu hình</string>
     <string name="lockpattern_settings_enable_error_path_title">Hiện lỗi mẫu hình</string>
     <string name="lockpattern_settings_enable_dots_title">Hiện dấu chấm mẫu hình</string>
@@ -52,6 +54,8 @@
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="power_menu_advanced_restart_title">Khởi động lại nâng cao</string>
     <string name="power_menu_advanced_restart_summary">Khi mở khóa, bao gồm các tùy chọn trong trình đơn nguồn để khởi động lại vào chế độ phục hồi hoặc trình nạp khởi động</string>
+    <string name="status_bar_double_tap_to_sleep_title">Chạm hai lần để tắt màn hình</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Chạm hai lần vào thanh trạng thái để tắt màn hình</string>
     <string name="display_rotation_title">Cài đặt xoay</string>
     <string name="display_rotation_enabled">Tự động xoay được bật</string>
     <string name="display_rotation_disabled">Tự động xoay bị tắt</string>

@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Cynyddu sensitifrwydd y sgrin gyffwrdd fel y gellir ei defnyddio wrth wisgo menig</string>
     <string name="berry_black_theme_title">Du pur</string>
     <string name="berry_black_theme_summary">Cefndir du pur i\'r thema dywyll</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tapio i gysgu</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Tapio dwywaith ar y bar statws neu\'r sgrin cloi i droi\'r sgrin i ffwrdd</string>
     <string name="lock_settings_picker_pattern_size_message">Dewisa faint patrwm</string>
     <string name="lockpattern_settings_enable_error_path_title">Dangos gwall patrwm</string>
     <string name="lockpattern_settings_enable_dots_title">Dangos dotiau patrwm</string>
@@ -34,6 +36,8 @@
     <string name="backup_transport_title">Dewis darparwr wrth gefn</string>
     <string name="power_menu_advanced_restart_title">Ailgychwyn arbennig</string>
     <string name="power_menu_advanced_restart_summary">Pan wedi datgloi, cynnwys opsiynau yn y ddewislen pŵer i ailgychwyn y system neu ailgychwyn i\'r modd adfer</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tariad dwbl i gysgu</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Tapio dwywaith ar y bar statws i droi\'r sgrin i ffwrdd</string>
     <string name="display_rotation_title">Gosodiadau cylchdroi</string>
     <string name="display_rotation_enabled">Mae cylchdroi yn awtomatig wedi\'i alluogi</string>
     <string name="display_rotation_disabled">Mae cylchdroi yn awtomatig wedi\'i analluogi</string>

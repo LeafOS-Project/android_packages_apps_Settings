@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Lisää kosketusnäytön herkkyyttä käyttääksesi laitetta käsineiden kanssa</string>
     <string name="berry_black_theme_title">Kokonaan musta</string>
     <string name="berry_black_theme_summary">Kokonaan musta tausta tummalle teemalle</string>
+    <string name="status_bar_double_tap_to_sleep_title">Sammuta näyttö napauttamalla</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Sulje laitteen näyttö tuplanapauttamalla tilapalkkia tai lukitusnäyttöä</string>
     <string name="lock_settings_picker_pattern_size_message">Valitse ruudukon koko</string>
     <string name="lockpattern_settings_enable_error_path_title">Näytä kuvion virhe</string>
     <string name="lockpattern_settings_enable_dots_title">Näytä kuvion pisteet</string>
@@ -31,6 +33,8 @@
     <string name="tethering_allow_vpn_upstreams_summary">Salli hotspot-yhteyksien kayttää tämän laitteen VPN-yhteyksiä yhteyden muodostamiseen</string>
     <string name="backup_transport_setting_label">Vaihda varmuuskopiopalvelua</string>
     <string name="backup_transport_title">Valitse varmuuskopiopalvelu</string>
+    <string name="status_bar_double_tap_to_sleep_title">Lepotila kaksoisnapautuksella</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Sulje laitteen näyttö tuplanapauttamalla tilapalkkia</string>
     <string name="display_rotation_title">Asennon asetukset</string>
     <string name="display_rotation_enabled">Automaattinen kierto on käytössä</string>
     <string name="display_rotation_disabled">Automaattinen kierto on pois käytöstä</string>

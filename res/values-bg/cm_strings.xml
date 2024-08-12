@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Увеличи сензорната чувствителност, така че може да се използва докато носите ръкавици</string>
     <string name="berry_black_theme_title">Натурално черно</string>
     <string name="berry_black_theme_summary">Натурален черен фон за тъмна тема</string>
+    <string name="status_bar_double_tap_to_sleep_title">Натиснете, за заспиване</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Докоснете двукратно лентата на състоянието или заключващия екран, за да изключите дисплея</string>
     <string name="lock_settings_picker_pattern_size_message">Изберете размера на шаблона</string>
     <string name="lockpattern_settings_enable_error_path_title">Покажи модела на грешката</string>
     <string name="lockpattern_settings_enable_dots_title">Покажи точките на модела</string>
@@ -32,6 +34,8 @@
     <string name="tethering_allow_vpn_upstreams_summary">Разрешете на клиентите на точка за достъп да използват VPN връзките на това устройство, за да се свържат с мрежата</string>
     <string name="backup_transport_setting_label">Промяна на доставчика на резервни копия</string>
     <string name="backup_transport_title">Изберете доставчик на резервни копия</string>
+    <string name="status_bar_double_tap_to_sleep_title">Двукратно почукване за заспиване</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Двукратно почукване върху лентата на състоянието изключва на дисплея</string>
     <string name="display_rotation_title">Настройки на завъртане</string>
     <string name="display_rotation_enabled">Автоматичното завъртене е активирано</string>
     <string name="display_rotation_disabled">Автоматичното завъртене е деактивирано</string>

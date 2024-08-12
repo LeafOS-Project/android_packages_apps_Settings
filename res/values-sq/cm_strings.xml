@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Rrit ndjeshmërinë e prekjes kështu që mund të përdoret kur keni dorashka</string>
     <string name="berry_black_theme_title">E zezë e pastër</string>
     <string name="berry_black_theme_summary">Sfond i zi i pastër për temë të errët</string>
+    <string name="status_bar_double_tap_to_sleep_title">Shtyp për të fjetur</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Shtyp dy herë shiritin e ekranit ose mbyllekranin për të fikur ekranin</string>
     <string name="lock_settings_picker_pattern_size_message">Zgjidh madhësinë e modelit</string>
     <string name="lockpattern_settings_enable_error_path_title">Shfaq gabimet në vizatimin e modelit</string>
     <string name="lockpattern_settings_enable_dots_title">Shfaq pikat e modelit</string>
@@ -52,6 +54,8 @@
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="power_menu_advanced_restart_title">Rindezje e përparuar</string>
     <string name="power_menu_advanced_restart_summary">Kur telefoni është i zhbllokuar, përfshi në menunë e energjisë opsione për t\'u rindezur në Recovery ose Bootloader</string>
+    <string name="status_bar_double_tap_to_sleep_title">Shtyp dy herë për të fikur ekranin</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Shtyp dy herë shiritin e ekranit për të fikur ekranin</string>
     <string name="display_rotation_title">Parametrat e rrotullimit</string>
     <string name="display_rotation_enabled">Rrotullimi automatik është i aktivizuar</string>
     <string name="display_rotation_disabled">Rrotullimi automatik është i çaktivizuar</string>

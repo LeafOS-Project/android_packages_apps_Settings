@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
     <string name="berry_black_theme_title">Pure black</string>
     <string name="berry_black_theme_summary">Pure black background for dark theme</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar or lockscreen to turn off the display</string>
     <string name="lock_settings_picker_pattern_size_message">Choose a pattern size</string>
     <string name="lockpattern_settings_enable_error_path_title">Show pattern error</string>
     <string name="lockpattern_settings_enable_dots_title">Show pattern dots</string>
@@ -52,6 +54,8 @@
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="power_menu_advanced_restart_title">Advanced restart</string>
     <string name="power_menu_advanced_restart_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
+    <string name="status_bar_double_tap_to_sleep_title">Double-tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar to turn off the display</string>
     <string name="display_rotation_title">Rotation settings</string>
     <string name="display_rotation_enabled">Auto-rotation is enabled</string>
     <string name="display_rotation_disabled">Auto-rotation is disabled</string>
