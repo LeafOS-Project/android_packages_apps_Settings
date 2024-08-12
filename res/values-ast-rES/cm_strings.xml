@@ -31,6 +31,11 @@
     <string name="tethering_allow_vpn_upstreams_summary">Permite que los veceros del puntu Wi-Fi usen les conexones VPN d\u2019esti preséu pa la conectividá</string>
     <string name="assisted_gps">Usar el GPS asistíu</string>
     <string name="assisted_gps_summary">Baxa los datos d\'asistencia satelitales d\'internet que puen ameyorar muncho\'l rindimientu inicial del GPS. Pa les llamaes d\'emerxencia, el GPS asistíu permítese siempres.</string>
+    <string name="battery_technology">Teunoloxía</string>
+    <string name="battery_temperature">Temperatura</string>
+    <string name="battery_voltage">Voltaxe</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="power_menu_advanced_restart_title">Reaniciu avanzáu</string>
     <string name="power_menu_advanced_restart_summary">Al desbloquiar, inclúi les opciones pa reaniciar al mou de recuperación o al cargador d\'arrinque nel menú d\'apagáu</string>
     <string name="display_rotation_unit">graos</string>
