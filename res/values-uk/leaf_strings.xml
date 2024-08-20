@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="qs_tile_shape">Форма плиток швидких налаштувань</string>
+    <string name="qs_panel_options_title">Швидкі налаштування</string>
+    <string name="hide_powermenu_lockscreen">Сховати меню живлення на екрані блокування</string>
+    <string name="qs_tile_mix">Круглий для активних плиток і заокруглений прямокутник для неактивних</string>
+    <string name="back_height_high_label">Низ</string>
+    <string name="back_height_low_label">Повна</string>
+    <string name="category_name_qs_tiles">Плитки швидких налаштувань</string>
+    <string name="enable_adblock_summary">Заблокувати рекламу і трекери поміж системи.</string>
+    <string name="qs_tile_round">Кругла</string>
+    <string name="qs_brightness_slider_title">Повзунок яскравості</string>
+    <string name="build_date">Дата збірки</string>
+    <string name="qs_panel_options_summary">Налаштування вигляду швидких налаштування</string>
+    <string name="three_finger_gesture">Свайпни для скріншоту</string>
+    <string name="three_finger_gesture_summary">Свайпніть вниз трьома пальцями щоб зробити скріншот</string>
+    <string name="back_options_dialog_title">Опції</string>
+    <string name="back_height_message">Кількість місця на екрані що буде використане як область дотику для жесту назад.</string>
+    <string name="enable_adblock">Увімкнути блокування реклами</string>
+    <string name="leaf_version">Версія LeafOS</string>
+    <string name="category_name_qs_brightness_slider">Повзунок яскравості</string>
+    <string name="leaf_vendor_security_patch">Рівень виправлень системи безпеки від виробника</string>
+    <string name="qs_tile_rect">Заокруглений прямокутник</string>
+</resources>
