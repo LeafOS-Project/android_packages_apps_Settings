@@ -46,7 +46,7 @@
     </plurals>
     <string name="three_finger_gesture">スワイプでスクリーンショット</string>
     <string name="wifi_hotspot_hidden_ssid_title">隠されたネットワーク</string>
-    <string name="three_finger_gesture_summary">3 本の指で下にスワイプでスクリーンショットを撮ります</string>
+    <string name="three_finger_gesture_summary">3 本の指で下にスワイプするとスクリーンショットを撮ります</string>
     <string name="qs_brightness_slider_position_title">明るさのスライダーの位置</string>
     <string name="qs_brightness_slider_never">常に表示</string>
     <string name="wifi_hotspot_hidden_ssid_summary">モバイルホットスポットの名前を利用可能な Wi-Fi ネットワークの一覧で表示しません</string>
