@@ -38,7 +38,7 @@
     <string name="qs_brightness_slider_title">明るさのスライダー</string>
     <string name="hide_from_launcher_summary">このアプリがランチャーに表示されないようにします。変更を有効化するにはランチャーの再起動が必要です。</string>
     <string name="wifi_hotspot_unblock_client_dialog_text">｢<xliff:g id="device_name">%1$s</xliff:g>｣のデバイスはこのホットスポットに接続できます</string>
-    <string name="build_date">ビルド日時</string>
+    <string name="build_date">ビルド日</string>
     <string name="qs_brightness_slider_always">表示しない</string>
     <string name="qs_panel_options_summary">クイック設定の外観をカスタマイズします</string>
     <plurals name="app_lock_summary">
